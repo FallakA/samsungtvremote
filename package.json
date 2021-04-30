@@ -15,6 +15,6 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "samsungtv": "git+ssh://git@github.com/simonbs/samsungtv.git"
+    "samsungtv": "git+ssh://git@github.com/FallakA/samsungtv.git"
   }
 }
